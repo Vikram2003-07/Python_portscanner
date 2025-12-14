@@ -16,21 +16,23 @@ A simple, lightweight TCP port scanner written in Python for educational and leg
 
 ## Installation
 
-1. Clone the repository:
-
+1. **Clone the repository:**
+   ```bash
    git clone https://github.com/Vikram2003-07/Python_portscanner.git
+   
    cd Python_portscanner
-
-2. (Optional) Create and activate a virtual environment:
-
-   python -m venv venv
-   source venv/bin/activate  # macOS / Linux
-   venv\Scripts\activate     # Windows
-
-3. Ensure you have Python 3.7 or newer:
-
-   python --version
-
+   ```
+   
+2.  **Install dependencies:**
+    You would typically have a `requirements.txt` file.
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+3.  **Run the application:**
+    ```bash
+    python app.py
+    ```
 
 ## Contributing
 
