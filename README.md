@@ -1,0 +1,45 @@
+# Python Port Scanner
+
+A simple, lightweight TCP port scanner written in Python for educational and legitimate network administration purposes.
+
+## Features
+
+- Scan single hosts or multiple hosts
+- Scan specific ports or port ranges
+- Fast scanning using multithreading
+- Save results to a file (if supported by the script)
+
+## Requirements
+
+- Python 3.7+
+- Standard library modules: socket, threading, argparse, sys, datetime (no external dependencies required)
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Vikram2003-07/Python_portscanner.git
+   
+   cd Python_portscanner
+   ```
+   
+2.  **Install dependencies:**
+    You would typically have a `requirements.txt` file.
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+3.  **Run the application:**
+    ```bash
+    python app.py
+    ```
+
+## Contributing
+
+Contributions, issues and feature requests are welcome. Feel free to check the issues page or open a pull request.
+
+Please make sure to update tests as appropriate and follow the repository's coding style.
+
+## Disclaimer
+
+This tool is intended for educational purposes and legitimate network administration only. Unauthorized port scanning of systems you do not own or have explicit permission to test may be illegal and unethical. The author is not responsible for any misuse.
