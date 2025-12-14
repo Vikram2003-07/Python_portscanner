@@ -1,0 +1,13 @@
+# Python Port Scanner Requirements
+# All dependencies are from Python's standard library (socket, sys, datetime, threading)
+# No external packages required
+
+# Optional packages for enhanced functionality:
+# For colored output and better formatting (optional)
+# colorama==0.4.6
+
+# For IP address validation (optional)
+# ipaddress==1.0.23
+
+# Python version requirement
+# Python >= 3.6
