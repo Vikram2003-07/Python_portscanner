@@ -40,10 +40,6 @@ Contributions, issues and feature requests are welcome. Feel free to check the i
 
 Please make sure to update tests as appropriate and follow the repository's coding style.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Disclaimer
 
 This tool is intended for educational purposes and legitimate network administration only. Unauthorized port scanning of systems you do not own or have explicit permission to test may be illegal and unethical. The author is not responsible for any misuse.
